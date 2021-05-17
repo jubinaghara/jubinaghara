@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Firewall
 - 🌱 I’m currently learning Cybersecurity, Container/Kubernetes, BaaS (Firebase, AWS Amplify), Angular
 - 📫 How to reach me: agharajubin@gmail.com | +91 95375 16960
-- 😄 Pronouns: He, Mr
+- 😄 Pronouns: He, Him
 - ⚡ Fun fact: I speak 3 languages (English, Hindi and Gujarati)!
 
 <br />
