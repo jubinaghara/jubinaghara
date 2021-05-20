@@ -1,6 +1,6 @@
 ### Hi friends 👋, I am Jubin Aghara
 
-## I am a Product Guy, Hobbist Developer, and Avid Reader
+## I am a Product Person, Hobbyist Developer, and Avid Reader
 
 - 🔭 I’m currently working on Firewall
 - 🌱 I’m currently learning Cybersecurity, Container/Kubernetes, BaaS (Firebase, AWS Amplify), Angular
