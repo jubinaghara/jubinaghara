@@ -2,8 +2,8 @@
 
 ## I am a Product Person, Hobbyist Developer, and Avid Reader
 
-- 🔭 I’m currently working on Firewall
-- 🌱 I’m currently learning Cybersecurity, Container/Kubernetes, BaaS (Firebase, AWS Amplify), Angular
+- 🔭 I’m currently working on Firewall (SD-WAN, OpenID based Authentication support and High Availabilty features)
+- 🌱 I’m currently learning Modern Authentication, Angular 12
 - 📫 How to reach me: agharajubin@gmail.com | +91 95375 16960
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I speak 3 languages (English, Hindi and Gujarati)!
